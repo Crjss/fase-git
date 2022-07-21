@@ -1,3 +1,1 @@
-#Soy un encabezado
-
-Soy un texto.
+#Empezamos de cero
